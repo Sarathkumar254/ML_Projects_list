@@ -1,1 +1,1 @@
-web: gunincorn ipl.wsgi --log-file -
+web: gunincorn ipl_prediction.wsgi --log-file -
