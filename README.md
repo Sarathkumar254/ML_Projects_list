@@ -22,8 +22,8 @@ Evaluation metric: Root Mean Squared Error (RMSE)
 
 ### Deployment
 
-If you want to view the deployed model, then follow the links mentioned below:
-• GitHub: 
+If you want to view the deployed model, then follow the links mentioned below:\
+
 • Web App: https://iplscoreprediction254.herokuapp.com
 
 
