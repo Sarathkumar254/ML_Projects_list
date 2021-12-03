@@ -20,7 +20,7 @@ Evaluation metric: Root Mean Squared Error (RMSE)\
 • Decision Tree - 23.044\
 • Random Forest - 18.171\
 
-Taken the Multiple linear regression model for prediction results because it has best accuray and RMSE
+Taken the Multiple linear regression model for prediction results because it has best accuray and RMSE among the models
 
 ### Deployment
 
