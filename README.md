@@ -15,10 +15,12 @@ Data Set taken from the kaggle
 
 ### Model evaluation
 
-Evaluation metric: Root Mean Squared Error (RMSE)
-• Multiple Linear Regression - 15.843
-• Decision Tree - 23.044
-• Random Forest - 18.171
+Evaluation metric: Root Mean Squared Error (RMSE)\
+• Multiple Linear Regression - 15.843\
+• Decision Tree - 23.044\
+• Random Forest - 18.171\
+
+Taken the Multiple linear regression model for prediction results because it has best accuray and RMSE
 
 ### Deployment
 
