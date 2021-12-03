@@ -9,8 +9,9 @@ Optimized Multiple-Linear, Decision Tree and Random Forest models using Gridsear
 This project is for the fantasy cricket fans out there, helping them to earn extra fantasy points for Dream11 IPL, Team 11 and MPL etc ..
 
 ### Packages Used
-Packages: pandas, numpy, sklearn, matplotlib, seaborn, Django, HTML, CSS
-Tools Used: Jupyter notebook and Sublime Text 
+Packages: pandas, numpy, sklearn, matplotlib, seaborn, Django, HTML, CSS\
+Tools Used: Jupyter notebook and Sublime Text \
+Data Set taken from the kaggle
 
 ### Model evaluation
 
